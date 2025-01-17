@@ -1,3 +1,1 @@
-hi 
-hello 
-bbye 
+print("hello world")
